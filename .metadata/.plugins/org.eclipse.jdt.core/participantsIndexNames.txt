@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+C:\Users\DELL\Desktop\Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3778848116.index
+\myproject1\src\main\resources
+C:\Users\DELL\Desktop\Project\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4158360605.index
+\project\src\main\resources
